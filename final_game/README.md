@@ -13,6 +13,6 @@ Dále pokud postava není na plošině, tak nemůže znova vyskočit.
 Hudba je nastavena tak aby se po spuštění hry spustila a nevypínala se (byla v loopu). 
 Postava je mimo jiné naprogramována tak aby se při kliknutí na tlačítka pohybu změnili jednotlivé sprity. 
 Což znamená, že pokud hráč zmáčkne "a" tak se sprite změní na pohled vlevo a naopak pokud stiskne "d" tak se sprite obrátí vpravo.
-Jakmile je hráč chvilku neaktivní tak se postava sama otočí na střed viz. obrázek:
+Jakmile je hráč chvilku neaktivní tak se postava sama otočí na střed viz. obrázek
 
 ![Snímek obrazovky 2023-03-26 142925](https://user-images.githubusercontent.com/92738343/227777475-91c09bfb-cc49-4580-a1c4-12e578575a50.png)
